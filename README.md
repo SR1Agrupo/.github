@@ -1,20 +1,11 @@
 # .github
 
-Bienvenidos 👋
+Los repositorios `.github` son repositorios especiales que utiliza **gitHub** para personalizar una página de inicio en los perfiles de las organizaciones, independientemente de que sus contenidos sean públicos o privados. ([+ info](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile))
 
-![Grupo DW2A](https://raw.githubusercontent.com/DW2A/.github/main/profile/2W2A.png "Este es un grupo privado")
+Algo parecido puedes hacer con tu [perfil personal](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
-[Imagen vía Unsplash](https://unsplash.com/es/fotos/tZc3vjPCk-Q)
+---
 
-### IES Clara del Rey
-
-Organización privada para los alumnos del grupo **SR1A** para los módulos:
-
-- Fundamentación de Programación (`Python`)
-- Lenguajes de Marcas y Sistemas de gestión de la información
-
-🙋 **Grupo privado DW2A**
-
-> Recursos y `+` cosas**
+:point_right: Si quieres usar iconos, aquí un `gist` con [una lista](https://gist.github.com/rxaviers/7360908).
 
 
