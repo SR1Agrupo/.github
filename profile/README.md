@@ -4,15 +4,14 @@
 
 [Imagen vía Unsplash](https://unsplash.com/es/fotos/_Fx34KeqIEw)
 
-### IES Clara del Rey
+## IES Clara del Rey
 
-Organización privada para los alumnos del grupo **SR1A** para los módulos:
+🙋 Organización privada para el grupo **SR1A**.
 
-- Fundamentos de Programación (`Python`)
+> Módulos:
+
+- Fundamentos de Programación (`Python`) <https://www.python.org/>
 - Lenguajes de Marcas y Sistemas de gestión de la información
-
-🙋 **Grupo privado SR1A**
-
 
 > Recursos y `+` cosas**
 
