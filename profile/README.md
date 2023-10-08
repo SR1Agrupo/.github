@@ -1,6 +1,4 @@
-# .github
-
-Bienvenidos 👋
+# Bienvenidos 👋
 
 ![Grupo DW2A](https://raw.githubusercontent.com/SR1Agrupo/.github/main/profile/mohammad-rahmani-_Fx34KeqIEw-unsplash.jpg "Este es un grupo privado")
 
@@ -10,9 +8,12 @@ Bienvenidos 👋
 
 Organización privada para los alumnos del grupo **SR1A** para los módulos:
 
-- Fundamentación de Programación (`Python`)
+- Fundamentos de Programación (`Python`)
 - Lenguajes de Marcas y Sistemas de gestión de la información
 
-🙋 **Grupo privado DW2A**
+🙋 **Grupo privado SR1A**
+
 
 > Recursos y `+` cosas**
+
+- [Introducción a Python](https://learn.microsoft.com/es-es/training/modules/intro-to-python/) `Microsoft Learn`
