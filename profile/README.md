@@ -8,7 +8,7 @@
 
 🙋 Organización privada para el grupo **SR1A**.
 
-▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145748386-sr1a) - [Act1. Intro. a GitHub]([https://classroom.github.com/a/pSWVV3nn)(https://classroom.github.com/a/_DzOihM_))
+▶️ [GitHub Classroom](https://classroom.github.com/classrooms/145748386-sr1a) - [Act1. Intro. a GitHub](https://classroom.github.com/a/pSWVV3nn)(https://classroom.github.com/a/_DzOihM_))
 
 > Módulos:
 
