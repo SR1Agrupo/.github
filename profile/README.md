@@ -13,7 +13,7 @@
 > Módulos:
 
 - Fundamentos de Programación (`Python`) <https://www.python.org/>
-- Lenguajes de Marcas y Sistemas de gestión de la  
+- Lenguajes de Marcas y Sistemas de gestión de la Información
 
 > Recursos y `+` cosas**
 
@@ -34,3 +34,5 @@
 
   - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/08_ListasTuplasDicc.ipynb)
   - :books: [Documentación](https://docs.python.org/es/3/tutorial/datastructures.html)
+
+### 15 de ABRIL
