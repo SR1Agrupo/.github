@@ -25,4 +25,5 @@
 
 ### 8 de ABRIL
 
-1.- https://classroom.github.com/a/J76abdaA
+1.- Lógica: https://classroom.github.com/a/J76abdaA
+2.- Listas, Tuplas y Diccionarios: https://classroom.github.com/a/OiQsO-UU
