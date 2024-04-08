@@ -23,6 +23,8 @@
 
 ## Ejercicios puntuables
 
+> Via `GitHub Classroom`
+
 ### 8 de ABRIL
 
 1.- Lógica: <https://classroom.github.com/a/J76abdaA>
