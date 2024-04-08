@@ -18,3 +18,11 @@
 > Recursos y `+` cosas**
 
 - [Introducción a Python](https://learn.microsoft.com/es-es/training/modules/intro-to-python/) `Microsoft Learn`
+
+---
+
+## Ejercicios puntuanbles
+
+### 8 de ABRIL
+
+1.- https://classroom.github.com/a/J76abdaA
