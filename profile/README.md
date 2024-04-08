@@ -13,7 +13,7 @@
 > Módulos:
 
 - Fundamentos de Programación (`Python`) <https://www.python.org/>
-- Lenguajes de Marcas y Sistemas de gestión de la información
+- Lenguajes de Marcas y Sistemas de gestión de la  
 
 > Recursos y `+` cosas**
 
@@ -21,10 +21,16 @@
 
 ---
 
-## Ejercicios puntuanbles
+## Ejercicios puntuables
 
 ### 8 de ABRIL
 
-1.- Lógica: https://classroom.github.com/a/J76abdaA
+1.- Lógica: <https://classroom.github.com/a/J76abdaA>
 
-2.- Listas, Tuplas y Diccionarios: https://classroom.github.com/a/OiQsO-UU
+  - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/07_OperadoresLogicos.ipynb)
+  - :books: [Documentación](https://docs.python.org/es/3/library/stdtypes.html#truth-value-testing)
+
+2.- Listas, Tuplas y Diccionarios: <https://classroom.github.com/a/OiQsO-UU>
+
+  - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/08_ListasTuplasDicc.ipynb)
+  - :books: [Documentación](https://docs.python.org/es/3/tutorial/datastructures.html)
