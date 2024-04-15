@@ -21,7 +21,7 @@
 
 ---
 
-## Ejercicios puntuables
+## Ejercicios Python
 
 > Via `GitHub Classroom`
 
@@ -38,3 +38,5 @@
   - :books: [Documentación](https://docs.python.org/es/3/tutorial/datastructures.html)
 
 ### 15 de ABRIL
+
+3.- Funciones. Parte 1: <https://classroom.github.com/a/BY6hj-BI>
