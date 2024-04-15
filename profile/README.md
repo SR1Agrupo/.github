@@ -40,3 +40,4 @@
 ### 15 de ABRIL
 
 3.- Funciones. Parte 1: <https://classroom.github.com/a/BY6hj-BI>
+  - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/09_Funciones_1Resueltos.ipynb)
