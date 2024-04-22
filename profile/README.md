@@ -42,3 +42,7 @@
 3.- Funciones. Parte 1: <https://classroom.github.com/a/BY6hj-BI>
   - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/09_Funciones_1Resueltos.ipynb)
   - :books: [Guía de funciones de Python con ejemplos](https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/)
+
+### 22 de ABRIL
+
+4.- Funciones. Parte 2: <https://classroom.github.com/a/XJDqe1gS>
