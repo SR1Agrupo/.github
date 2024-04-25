@@ -48,7 +48,7 @@
 4.- Funciones. Parte 2: <https://classroom.github.com/a/XJDqe1gS>
 - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/10_Funciones_2Resueltos.ipynb)
 - :books:
-  - [Python Functions](https://www.w3schools.com/python/python_functions.asp) - W3Schools.com[
+  - [Python Functions](https://www.w3schools.com/python/python_functions.asp) - W3Schools.com
   - [Guía de funciones incorporadas en Python](https://docs.python.org/es/3/library/functions.html) - Python.org
   - [Ordenar listas e iterables](https://docs.python.org/es/3/howto/sorting.html) - Python.org
   - [Operaciones comunes de cadena de caracteres](https://docs.python.org/es/3/library/string.html) - Python.org
