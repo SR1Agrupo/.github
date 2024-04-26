@@ -43,7 +43,7 @@
   - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/09_Funciones_1Resueltos.ipynb)
   - :books: [Guía de funciones de Python con ejemplos](https://www.freecodecamp.org/espanol/news/guia-de-funciones-de-python-con-ejemplos/)
 
-### 22 de ABRIL
+### 22-25 de ABRIL
 
 4.- Funciones. Parte 2: <https://classroom.github.com/a/XJDqe1gS>
 - :sparkles: [Soluciones](https://github.com/SR1Agrupo/Python/blob/main/10_Funciones_2Resueltos.ipynb)
@@ -52,3 +52,10 @@
   - [Guía de funciones incorporadas en Python](https://docs.python.org/es/3/library/functions.html) - Python.org
   - [Ordenar listas e iterables](https://docs.python.org/es/3/howto/sorting.html) - Python.org
   - [Operaciones comunes de cadena de caracteres](https://docs.python.org/es/3/library/string.html) - Python.org
+
+### 26-29 de ABRIL
+
+5.- Ficheros: <https://classroom.github.com/a/ugseYIkL>
+
+:exclamation: Esta tarea incluye las soluciones en el propio repositorio
+
